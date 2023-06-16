@@ -1,0 +1,17 @@
+C:\Users\lahir\OneDrive\Desktop\Salary-Sheet-App\SalarySheet\bin\Debug\net6.0-windows\SalarySheet.exe
+C:\Users\lahir\OneDrive\Desktop\Salary-Sheet-App\SalarySheet\bin\Debug\net6.0-windows\SalarySheet.deps.json
+C:\Users\lahir\OneDrive\Desktop\Salary-Sheet-App\SalarySheet\bin\Debug\net6.0-windows\SalarySheet.runtimeconfig.json
+C:\Users\lahir\OneDrive\Desktop\Salary-Sheet-App\SalarySheet\bin\Debug\net6.0-windows\SalarySheet.dll
+C:\Users\lahir\OneDrive\Desktop\Salary-Sheet-App\SalarySheet\bin\Debug\net6.0-windows\SalarySheet.pdb
+C:\Users\lahir\OneDrive\Desktop\Salary-Sheet-App\SalarySheet\obj\Debug\net6.0-windows\SalarySheet.vbproj.AssemblyReference.cache
+C:\Users\lahir\OneDrive\Desktop\Salary-Sheet-App\SalarySheet\obj\Debug\net6.0-windows\SalarySheet.Form1.resources
+C:\Users\lahir\OneDrive\Desktop\Salary-Sheet-App\SalarySheet\obj\Debug\net6.0-windows\SalarySheet.vbproj.GenerateResource.cache
+C:\Users\lahir\OneDrive\Desktop\Salary-Sheet-App\SalarySheet\obj\Debug\net6.0-windows\SalarySheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lahir\OneDrive\Desktop\Salary-Sheet-App\SalarySheet\obj\Debug\net6.0-windows\SalarySheet.AssemblyInfoInputs.cache
+C:\Users\lahir\OneDrive\Desktop\Salary-Sheet-App\SalarySheet\obj\Debug\net6.0-windows\SalarySheet.AssemblyInfo.vb
+C:\Users\lahir\OneDrive\Desktop\Salary-Sheet-App\SalarySheet\obj\Debug\net6.0-windows\SalarySheet.vbproj.CoreCompileInputs.cache
+C:\Users\lahir\OneDrive\Desktop\Salary-Sheet-App\SalarySheet\obj\Debug\net6.0-windows\SalarySheet.dll
+C:\Users\lahir\OneDrive\Desktop\Salary-Sheet-App\SalarySheet\obj\Debug\net6.0-windows\refint\SalarySheet.dll
+C:\Users\lahir\OneDrive\Desktop\Salary-Sheet-App\SalarySheet\obj\Debug\net6.0-windows\SalarySheet.pdb
+C:\Users\lahir\OneDrive\Desktop\Salary-Sheet-App\SalarySheet\obj\Debug\net6.0-windows\SalarySheet.genruntimeconfig.cache
+C:\Users\lahir\OneDrive\Desktop\Salary-Sheet-App\SalarySheet\obj\Debug\net6.0-windows\ref\SalarySheet.dll
